@@ -1,0 +1,9 @@
+Interesseområdet
+Databasen omhandler et firma som anmelder spill.
+Firmaet skal sortere anmeldelser til forskjellige spill- og spill-plattformer.
+Hver anmelder må registrere fornavn, og etternavn.
+Hvert spill må registrere tittelen til spillet, samt utvikleren av spillet.
+Hver plattform må registrere navnet til plattformen og når den ble lansert.
+
+En anmelder kan ha flere anmeldelser til både spill og plattformen, men det er ikke nødvendig å ha noen. Hvert spill eller plattform trenger heller ikke å ha en anmeldelse. 
+Hvert spill trenger dermed minst en plattform, men kan ha flere, mens en plattform trenger ikke å ha noen spill, men kan ha flere.
